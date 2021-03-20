@@ -6,6 +6,10 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Tutor for CE4171 Internet of Things Communications and Networking
 
-Organize your courses by years, topics, or universities, however you like!
+Project Tutor for CE3004 Multi-Disciplinary Project
+
+Project Tutor for CE4032 Data Analytics and Mining
+
+Laboratory Tutor for CE3005 Computer Networks
