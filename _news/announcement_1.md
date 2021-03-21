@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-12-06 00:00:00-0000
 inline: true
 ---
 
-A simple inline announcement.
+Present a poster in Embedded AI Summit @ Shenzhen, China.

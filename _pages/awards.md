@@ -1,9 +1,10 @@
 ---
 layout: page
 permalink: /awards/
-title: awards
-description: Materials for courses you taught. Replace this text with your description.
+title: Awards
+description: 
 nav: true
+order: 4
 ---
 
 Research Scholarship

@@ -1,9 +1,10 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 description: 
+order: 1
 
 profile:
   align: right
@@ -11,8 +12,8 @@ profile:
   address: >
 
 
-news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 

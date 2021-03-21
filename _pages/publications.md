@@ -1,11 +1,14 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: 
 years: [2021,2019,2018]
 nav: true
+order: 2
 ---
+
+### Conferences
 
 <div class="publications">
 
@@ -15,3 +18,5 @@ nav: true
 {% endfor %}
 
 </div>
+
+### Journals

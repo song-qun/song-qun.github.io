@@ -1,15 +1,33 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
+order: 3
 ---
 
-Tutor for CE4171 Internet of Things Communications and Networking
+### Teaching Assistance@NTU
 
-Project Tutor for CE3004 Multi-Disciplinary Project
 
-Project Tutor for CE4032 Data Analytics and Mining
+CE4171 Internet of Things Communications and Networking
 
-Laboratory Tutor for CE3005 Computer Networks
+CE3004 Multi-Disciplinary Project
+
+CE4032 Data Analytics and Mining
+
+CE3005 Computer Networks
+
+### Supervision of Final Year Project (FYP)
+
+Ang Zhan Phung (NTU, SCSE, 2021)
+
+Khoo Kai Siang (NTU, SCSE, 2021)
+
+Milla Samuel (NTU, SCSE, 2021)
+
+Toh Koo Fong (NTU, SCSE, 2021)
+
+Lin Beiyi  (NTU, SCSE, 2020)
+
+Goh Yon-lu  (NTU, SCSE, 2020)
