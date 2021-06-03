@@ -3,7 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2021,2019,2018]
+papers_years: [2021,2019,2018]
+journals_years: [2021]
 nav: true
 order: 2
 ---
@@ -12,7 +13,7 @@ order: 2
 
 <div class="publications">
 
-{% for y in page.years %}
+{% for y in page.papers_years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
@@ -20,3 +21,12 @@ order: 2
 </div>
 
 ### Journals
+
+<div class="publications">
+
+{% for y in page.journals_years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f journals -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
