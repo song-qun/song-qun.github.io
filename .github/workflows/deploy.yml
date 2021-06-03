@@ -44,9 +44,9 @@ jobs:
           echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
         fi
         if [[ ${{ github.repository }} = *.github.io ]]; then # user/org repo
-          echo "::set-output name=DEPLOY_BRANCH::master"
-        else
           echo "::set-output name=DEPLOY_BRANCH::gh-pages"
+        else
+          echo "::set-output name=DEPLOY_BRANCH::master"
         fi
     - name: Deploy website 
       run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
