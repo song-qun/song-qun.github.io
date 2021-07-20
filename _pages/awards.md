@@ -15,3 +15,5 @@ Nanyang Technological University, 2019
 
 SenSys Student Travel Grant
 ACM SIGMOBILE, 2019
+
+IPSN 2021 Best Artifact Runner-Up, ACM/IEEE IPSN, 2021
