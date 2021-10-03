@@ -7,7 +7,14 @@ nav: true
 order: 4
 ---
 
-Research Scholarship
+Best Artifact Award Runner-up
+ACM/IEEE IPSN 2021
+Artifact: https://github.com/jiegev5/PhyAug
+
+NTU SCALE Best Demo Award
+The demo is based on our paper “Deep Room Recognition using Inaudible Echos”.
+
+Scholarship for Interdisciplinary Research (Premium)
 Nanyang Technological University, 2018-2022
 
 University Teaching for Teaching Assistant Certificate
