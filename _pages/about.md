@@ -12,8 +12,8 @@ profile:
   address: >
 
 
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -23,10 +23,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I received my Ph.D. from Nanyang Techonological University, Singapore in 2022. I was supervised by Prof. [Tan Rui](https://personal.ntu.edu.sg/tanrui/) leading the [NTU IoT Sensing Group](https://ntuiot.xyz/). Before that, I received B.Eng. from Nankai University in 2018.
+I received my Ph.D. from Nanyang Technological University, Singapore in 2022. I was supervised by Prof. [Tan Rui](https://personal.ntu.edu.sg/tanrui/) leading the [NTU IoT Sensing Group](https://ntuiot.xyz/). Before that, I received my B.Eng. from Nankai University in 2018.
 
-I am broadly interested in AIoT (AI+IoT), sensing, mobile computing, and deep learning. My goal is to build deployable AI-powered autonomous cyber-physical systems that are resilient and resource-aware. My research aims at addressing the practical challenges of landing AI on IoT systems including the adversarial examples and privacy attacks, cross-modal learning, domain shift, and computation constraints.
+I am broadly interested in AIoT (AI+IoT), sensing, mobile computing, and deep learning. My goal is to build deployable AI-powered autonomous cyber-physical systems that are resilient and resource-aware. My research addresses the practical challenges of landing AI on IoT systems including the adversarial examples and privacy attacks, cross-modal learning, domain shift, and computation constraints.
 
-I will be joining TU Delft as an assistant professor. I am looking for one Ph.D. to conduct system research on resilient and deployable AIoT. Check the job description [here](https://song-qun.github.io/opening/).
+***I will be joining TU Delft as an assistant professor. I am looking for one Ph.D. to conduct system research on resilient and deployable AIoT. Check the job description [here](https://song-qun.github.io/opening/).***
 
 <!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
