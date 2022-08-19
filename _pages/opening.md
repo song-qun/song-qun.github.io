@@ -18,7 +18,6 @@ Eligibility:
 - The candidate must hold a master's degree in CS/EE/Math and meet the [admission requirements](https://www.tudelft.nl/onderwijs/opleidingen/phd/admission).
 - Knowledgeable in machine learning and deep learning.
 - Solid programming skills and prototyping capabilities.
-- Excellent proficiency in written and spoken English.
 - Research experience in IoT, sensing, mobile computing, AI, security, and privacy will be preferred.
 
 The successful candidate will be offered a 4-year contract. Salary and benefits are in accordance with the Collective Labour Agreement for Dutch Universities, increasing from 2,396 euros per month in the first year to 3,061 euros in the fourth year. 
