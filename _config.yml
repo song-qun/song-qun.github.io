@@ -8,7 +8,8 @@ middle_name:
 last_name: SONG
 email: song0167@ntu.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I received my Ph.D. from Nanyang Technological University, Singapore in 2022. I was supervised by Prof. [Tan Rui](https://personal.ntu.edu.sg/tanrui/) leading the [NTU IoT Sensing Group](https://ntuiot.xyz/). Before that, I received my B.Eng. from Nankai University in 2018.
+
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
