@@ -9,9 +9,9 @@ order: 5
 
 Dr. Qun Song will be joining TU Delft in Nov 2022 as a tenure-track assistant professor. A fully funded Ph.D. position is immediately available at the [Embedded and Networked Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) of the Department of Software Technology, EEMCS, TU Delft. Interested candidates can send CV, transcript, and TOEFL/IELTS (if applicable) to <song0167@ntu.edu.sg>. Successful candidate will be co-supervised by [Dr. Qun Song](https://song-qun.github.io/) and [Prof. dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/). The candidate will conduct research in Artificial Intelligence of Things (AIoT) with focus topics on:
 
-- AI for autonomous cyber-physical systems.
+- Reliable design of AIoT systems, including components of robustness, security, privacy, computing, etc.
+- AI for autonomous cyber-physical systems, e.g., autonomous vehicles.
 - Embedded AI for IoT systems.
-- Security and privacy in AIoT.
 
 Eligibility:
 
