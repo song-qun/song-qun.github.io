@@ -23,7 +23,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I received my Ph.D. from Nanyang Technological University, Singapore in 2022. I was supervised by Prof. [Tan Rui](https://personal.ntu.edu.sg/tanrui/) who is leading the [NTU IoT Sensing Group](https://ntuiot.xyz/). Before that, I received my B.Eng. from Nankai University in 2018.
+I am an Assistant Professor in the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at Delft University of Technology, the Netherlands. I received my Ph.D. from Nanyang Technological University, Singapore in 2022. I was supervised by Prof. [Tan Rui](https://personal.ntu.edu.sg/tanrui/) who is leading the [NTU IoT Sensing Group](https://ntuiot.xyz/). Before that, I received my B.Eng. from Nankai University in 2018.
 
 I am broadly interested in AIoT (AI+IoT), sensing, mobile computing, and deep learning. My goal is to build deployable AI-powered autonomous cyber-physical systems that are resilient and resource-aware. My research addresses the practical challenges of landing AI on IoT systems including the adversarial examples and privacy attacks, cross-modal learning, domain shift, and computation constraints.
 
