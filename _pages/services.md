@@ -11,7 +11,7 @@ order: 6
     - 2023: Publicity Co-Chair, IEEE MASS
 
 - Technical Program Committee:
-    - 2023: ACM e-Energy, IEEE/ACM CHASE, ICA3PP
+    - 2023: ACM SenSys, ACM e-Energy, IEEE/ACM CHASE, ICA3PP, ICCPS-wip
     - 2022: SenSys Shadow Program
 
 - Conference Reviewer:
@@ -19,6 +19,6 @@ order: 6
     - 2022: IEEE MASS
 
 - Journal Reviewer:
-    - 2023: IMWUT, ACM TOSN
+    - 2023: IMWUT, ACM TOSN, IEEE TMC
     - 2022: IEEE TMC
     - 2020: IEEE TNNLS
