@@ -15,7 +15,7 @@ A fully funded Ph.D. position is immediately available at the [Embedded Systems 
 
 - Uncertainty-aware AI for IoT systems
 - AIoT systems security
-- Embedded AI for IoT
+- Embedded AI for IoT systems
 
 Eligibility:
 
