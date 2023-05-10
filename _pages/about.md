@@ -27,6 +27,6 @@ I am an Assistant Professor in the [Embedded Systems Group](https://www.tudelft.
 
 I am broadly interested in AIoT (AI+IoT), sensing, mobile computing, and deep learning. My goal is to build deployable AI-powered autonomous cyber-physical systems that are resilient and resource-aware. My research addresses the practical challenges of landing AI on IoT systems including the adversarial examples and privacy attacks, cross-modal learning, domain shift, and computation constraints.
 
-***I am looking for one Ph.D. to conduct system research on resilient and deployable AIoT. Check the job description [here](https://song-qun.github.io/opening/).***
+***I am looking for one Ph.D. and MSc students to conduct system research on resilient and deployable AIoT. Check the job description [here](https://song-qun.github.io/opening/).***
 
 <!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
