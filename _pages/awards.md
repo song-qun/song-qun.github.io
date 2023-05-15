@@ -7,6 +7,10 @@ nav: true
 order: 4
 ---
 
+Best Paper Award Finalist, SenSys 2022.\
+PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.\
+7 out of 208 submissions.
+
 Best Artifact Award Runner-up, ACM/IEEE IPSN 2021.\
 Artifact: [https://github.com/jiegev5/PhyAug](https://github.com/jiegev5/PhyAug)
 
