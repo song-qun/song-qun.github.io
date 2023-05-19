@@ -19,6 +19,6 @@ order: 6
     - 2022: IEEE MASS
 
 - Journal Reviewer:
-    - 2023: IMWUT, ACM TOSN, IEEE TMC
+    - 2023: IMWUT, ACM TOSN, IEEE TMC, IEEE TDSC
     - 2022: IEEE TMC
     - 2020: IEEE TNNLS
