@@ -1,6 +1,1 @@
----
-layout: post
-inline: true
----
-
 [03/2023] Paper [Towards Efficient Personalized Driver Behavior Modeling with Machine Unlearning](https://dl.acm.org/doi/abs/10.1145/3576914.3587489) accepted by [SafeThings'23](https://safe-things-2023.github.io/).
