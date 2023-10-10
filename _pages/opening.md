@@ -4,7 +4,6 @@ permalink: /opening/
 title: Openings
 description: 
 nav: false
-order: 5
 ---
 
 A fully funded Ph.D. position is immediately available at the [Embedded Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-and-networked-systems/) of the Department of Software Technology, EEMCS, TU Delft. Interested candidates can send their CV, transcript, and TOEFL/IELTS (if applicable) to <Q.Song-1@tudelft.nl>. Successful candidate will be co-supervised by [Dr. Qun Song](https://song-qun.github.io/) and [Prof. dr. Koen Langendoen](https://www.st.ewi.tudelft.nl/koen/). The candidate will conduct research in Artificial Intelligence of Things (AIoT) with focus on:
