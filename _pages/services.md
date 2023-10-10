@@ -8,9 +8,11 @@ order: 6
 ---
 
 - Conference chairs:
+    - 2024: Publicity Co-Chair, CPS-IoT Week
     - 2023: Publicity Co-Chair, IEEE MASS
 
 - Technical Program Committee:
+    - 2024: ACM/IEEE IoTDI
     - 2023: ACM SenSys, ACM e-Energy, IEEE/ACM CHASE, ICCPS-wip, IoTDI Poster & Demo, ICA3PP
     - 2022: SenSys Shadow Program
 
