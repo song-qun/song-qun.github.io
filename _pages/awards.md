@@ -7,6 +7,8 @@ nav: true
 order: 4
 ---
 
+Best Community Contribution Award, MobiCom 2023.
+
 Best Paper Award Finalist, SenSys 2022.\
 PriMask: Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference.\
 7 out of 208 submissions.
