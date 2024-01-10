@@ -7,6 +7,10 @@ nav: true
 order: 3
 ---
 
+### Teaching Assistance@TU Delft
+
+IN4254 Smart Phone Sensing. 2023.
+
 ### Teaching Assistance@NTU
 
 
@@ -18,7 +22,7 @@ CE4032 Data Analytics and Mining
 
 CE3005 Computer Networks
 
-### Supervision of Final Year Project (FYP)
+### Supervision of Final Year Project (FYP)@NTU
 
 Ang Zhan Phung (NTU, SCSE, 2021)
 
