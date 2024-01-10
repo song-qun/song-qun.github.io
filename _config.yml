@@ -128,7 +128,7 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-email-protect
-  - jekyll-github-metadata
+  # - jekyll-github-metadata
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-twitter-plugin
