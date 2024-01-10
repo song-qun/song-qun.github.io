@@ -3,7 +3,8 @@ layout: page
 title: Team
 permalink: /Team/
 description: 
-nav: false
+nav: true
+order: 6
 ---
 
 - Ph.D.:
