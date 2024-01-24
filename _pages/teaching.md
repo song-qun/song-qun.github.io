@@ -7,7 +7,7 @@ nav: true
 order: 3
 ---
 
-### Teaching Assistance@TU Delft
+### Teaching @TU Delft
 
 IN4254 Smart Phone Sensing. 2023.
 
