@@ -7,9 +7,8 @@ nav: true
 order: 5
 ---
 
-- Conference chairs:
-    - 2024: Poster and Demo Co-Chair, ACM e-Energy’24.
-    - 2024: Publicity Co-Chair, CPS-IoT Week.
+- Conference Chairs:
+    - 2024: Poster and Demo Co-Chair, ACM e-Energy. Publicity Co-Chair, CPS-IoT Week.
     - 2023: Publicity Co-Chair, IEEE MASS.
 
 - Technical Program Committee:

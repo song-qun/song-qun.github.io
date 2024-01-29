@@ -28,7 +28,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am an Assistant Professor in the [Embedded Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at Delft University of Technology, the Netherlands. I received my Ph.D. from Nanyang Technological University, Singapore. Before that, I received my B.Eng. from Nankai University.
 
-I am broadly interested in AIoT (AI+IoT), sensing, mobile computing, and deep learning. My goal is to build deployable AI-powered autonomous cyber-physical systems that are resilient and resource-aware. My research addresses the practical challenges of landing AI on IoT systems including the adversarial examples and privacy attacks, cross-modal learning, domain shift, and computation constraints.
+I am broadly interested in AIoT (AI+IoT), sensing, mobile computing, and autonomous driving. My goal is to build AI-powered autonomous cyber-physical systems that are robust, resilient, and resource-efficient. My research aims to address the practical challenges of landing AI on IoT systems, including the adversarial examples, privacy attacks, cross-modal learning, domain shift, and computation constraints.
 
 <!-- ***I am looking for one Ph.D. and MSc students to conduct system research on resilient and deployable AIoT. Check the job description [here](https://song-qun.github.io/opening/).*** -->
 
