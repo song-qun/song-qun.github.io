@@ -7,12 +7,10 @@ nav: true
 order: 6
 ---
 
-- Ph.D.:
-    - Yukuan Ding, 2023.10 - now
-    - Shenxiu Wu, 2023.10 - now (co-supervised with Prof. Guohao Lan)
+- Current members
+    - Yukuan Ding, Ph.D., 2023.10 - 
+    - Lalitha Sai Shraddha Bollapragada, MSc, 2023 -
 
-- MSc:
-    - Dinghao Xue
-    - Mees Jonker
-    - Qingyue Yang
-    - Lalitha Sai Shraddha Bollapragada
+- Alumni:
+    - Dinghao Xue, MSc with distinction, 2023 - 2024
+    - Qingyue Yang, MSc, 2023 - 2024
