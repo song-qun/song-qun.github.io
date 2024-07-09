@@ -25,7 +25,7 @@ Eligibility:
 
 <!-- The successful candidate will be offered a 4-year contract. Salary and benefits are in accordance with the Collective Labour Agreement for Dutch Universities, increasing from around 2,400 euros per month in the first year to around 3,100 euros in the fourth year.  -->
 
-#### About SUTD ####
+#### About the Supervisor ####
 Qun Song is currently an Assistant Professor in the Information Systems Technology and Design Pillar, Singapore University of Technology and Design. She received Ph.D. from Nanyang Technological University, Singapore and B.Eng. from Nankai University, China. Her research interests include the Internet of Things, cyber-physical systems, artificial intelligence, and security for autonomous driving. She published multiple papers in top-tier conferences and journals including SenSys, UbiComp, MobiCom, IPSN, USENIX Security, AAAI, IJCAI, TMC, TOSN, and TDSC. She is the recipient of the 2023 MobiCom Best Community Contribution Award, the 2022 SenSys Best Paper Award Finalist, and the 2021 IPSN Best Artifact Award Runner-up.
 
 Personal website: https://song-qun.github.io/

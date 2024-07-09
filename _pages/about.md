@@ -10,10 +10,10 @@ profile:
   align: right
   image: IMG_7075.jpg
   address: >
-    <p>Rm 2.W.900</p>
-    <p>Van Mourik Broekmanweg 6</p>
-    <p>2628 XE Delft</p>
-    <p>The Netherlands</p>
+    # <p>Rm 2.W.900</p>
+    # <p>Van Mourik Broekmanweg 6</p>
+    # <p>2628 XE Delft</p>
+    # <p>The Netherlands</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -32,6 +32,6 @@ Delft University of Technology, the Netherlands, from 2022 to 2024. I received m
 
 My research interests include Internet of Things, cyber-physical systems, artificial intelligence, and security for autonomous driving. My goal is to build AI-powered autonomous cyber-physical systems that are robust, resilient, and resource-efficient. My research aims to address the practical challenges of landing AI on IoT systems, including the adversarial examples, privacy attacks, cross-modal learning, domain shift, and computation constraints.
 
-***I am seeking multiple Ph.D. students and RAs to join my research team and work on resilient and deployable AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).***
+<font color = red>I am seeking multiple Ph.D. students and RAs to join my research team and work on resilient and deployable AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).</font>
 
 <!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
