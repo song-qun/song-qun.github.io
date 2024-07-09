@@ -39,5 +39,6 @@ Estabilished in collaboration MIT, the Singapore University of Technology and De
 <img src="/assets/img/delft.jpg" alt="drawing" width="750"/> -->
 
 SUTD: https://sutd.edu.sg/
+
 ISTD: https://istd.sutd.edu.sg/
 

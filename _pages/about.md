@@ -10,10 +10,7 @@ profile:
   align: right
   image: IMG_7075.jpg
   address: >
-    # <p>Rm 2.W.900</p>
-    # <p>Van Mourik Broekmanweg 6</p>
-    # <p>2628 XE Delft</p>
-    # <p>The Netherlands</p>
+
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
