@@ -6,7 +6,7 @@ description:
 nav: false
 ---
 
-Multiple Ph.D. and RA positions are available in the Information Systems Technology and Design (ISTD) Pillar, Singapore University of Technology and Design (SUTD). Interested candidates can send their CV, transcript, and TOEFL/IELTS (if applicable) to <nkusq2014@gmail.com>. Successful candidates will directly work with [Dr. Qun Song](https://song-qun.github.io/). The candidates will conduct research in Artificial Intelligence of Things (AIoT) with a focus on:
+Multiple Ph.D., visiting student, RA, and research fellow positions are available in the Information Systems Technology and Design (ISTD) Pillar, Singapore University of Technology and Design (SUTD). Interested candidates can send their CV, transcript, and TOEFL/IELTS (if applicable) to <nkusq2014@gmail.com>. Successful candidates will directly work with [Dr. Qun Song](https://song-qun.github.io/). The candidates will conduct research in Artificial Intelligence of Things (AIoT) with a focus on:
 
 <!-- - Reliable design of AIoT systems, including components of robustness, security, privacy, computing, etc.
 - AI for autonomous cyber-physical systems, e.g., autonomous vehicles.
