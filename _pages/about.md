@@ -27,10 +27,15 @@ I am currently an Assistant Professor in the Information Systems Technology and 
 <!-- I am currently an Assistant Professor in the [Embedded Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at Delft University of Technology, the Netherlands. -->
 I received my Ph.D. from Nanyang Technological University, Singapore. Before that, I received my B.Eng. from Nankai University.
 
-My research interests include Internet of Things, cyber-physical systems, artificial intelligence, and security for autonomous driving. My goal is to build AI-powered autonomous cyber-physical systems that are robust, resilient, and resource-efficient. My research aims to address the practical challenges of landing AI on IoT systems, including adversarial examples, privacy attacks, cross-modal learning, domain shift, and computation constraints.
+My research interests include Internet of Things, cyber-physical systems, and artificial intelligence. My goal is to build AI-powered autonomous cyber-physical systems that are robust and efficient. My research aims to address the practical challenges of deploying AI for CPS/IoT applications, including adversarial examples, privacy attacks, cross-modal learning, domain shifts, and computation constraints.
 
 <!-- **I am seeking multiple Ph.D. students and RAs to join my research team and work on resilient and deployable AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).** -->
 
-**<span style="color: red;">I am seeking highly motivated Ph.D. students, visiting scholars, CSC students, research assistants, and research fellows to join my research team and work on reliable and efficient AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).</span>**
+**<span style="color: red;">I am openings for 1-2 fully-funded Ph.D. students with strong interest in developing robust and efficient AI-powered CPS/IoT systems. Check the job description [here](https://song-qun.github.io/opening-PhD/).</span>**
+
+**<span style="color: red;">I have openings for 1-2 research assistants/associates/fellows to work on acoustic SLAM for 2 years. Check the job description [here](https://song-qun.github.io/opening-acoustic-SLAM/).</span>**
+
+**<span style="color: red;">Self-funded and CSC-funded visiting students are welcome to join our team.</span>**
+
 
 <!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
