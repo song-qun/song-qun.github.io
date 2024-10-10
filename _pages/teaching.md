@@ -9,12 +9,15 @@ order: 3
 
 **Teaching @SUTD**\
 01.400 Capstone Programme, 2024
+
 10.014 Computational Thinking for Design, 2024
 
 **Teaching @TU Delft**\
 IN4254 Smart Phone Sensing. 2023.
+Research Projects@TU Delft. 2023.
+Software Projects@TU Delft. 2024, 2023.
 
-**Supervision of Undergraduate Research Projects@TU Delft**.\
+<!-- **Supervision of Undergraduate Research Projects@TU Delft**.\
 Five projects in *Indoor Location Sensing Using Smartphone Acoustic System*. 2023.\
 Student names: Michael Chan, Davis Ka zemaks, Radoslav Sozonov, Filip Bili nski, Roald van
 Heerde.
@@ -22,7 +25,7 @@ Heerde.
 **Supervision of Undergraduate Software Projects@TU Delft**\
 Five projects in *A.i. Video Conferencing Speaker Camera Tracking Based on Audio Direction*. 2023.\
 Student names: Ivan Smilenov, Borislav Semerdzhiev, Yehor Kozyr, Petr Khartskhaev, Izzy van
-der Giessen.
+der Giessen. -->
 
 **Teaching Assistance@NTU**\
 CE4171 Internet of Things Communications and Networking. 2021-2022.\
