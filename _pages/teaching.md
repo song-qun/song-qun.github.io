@@ -8,9 +8,8 @@ order: 3
 ---
 
 **Teaching @SUTD**\
-01.400 Capstone Programme, 2024
-
-10.014 Computational Thinking for Design, 2024
+01.400 Capstone Programme, 2024.\
+10.014 Computational Thinking for Design, 2024.
 
 **Teaching @TU Delft**\
 IN4254 Smart Phone Sensing. 2023.
