@@ -31,9 +31,9 @@ My research interests include Internet of Things, cyber-physical systems, and ar
 
 <!-- **I am seeking multiple Ph.D. students and RAs to join my research team and work on resilient and deployable AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).** -->
 
-**<span style="color: red;">I am openings for 1-2 fully-funded Ph.D. students with strong interest in developing robust and efficient AI-powered CPS/IoT systems. Check the job description [here](https://song-qun.github.io/opening-PhD/).</span>**
+**<span style="color: red;">I have openings for 1-2 fully-funded Ph.D. students with strong interest in developing robust and efficient AI-powered CPS/IoT systems. Check the job description [here](https://song-qun.github.io/opening-PhD/).</span>**
 
-**<span style="color: red;">I have openings for 1-2 research assistants/associates/fellows to work on acoustic SLAM for 2 years. Check the job description [here](https://song-qun.github.io/opening-acoustic-SLAM/).</span>**
+**<span style="color: red;">I have openings for 1-2 research assistants/associates/fellows to work on acoustic SLAM. Check the job description [here](https://song-qun.github.io/opening-acoustic-SLAM/).</span>**
 
 **<span style="color: red;">Self-funded and CSC-funded visiting students are welcome to join our team.</span>**
 
