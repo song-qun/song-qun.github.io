@@ -12,7 +12,7 @@ order: 5
     - 2023: Publicity Co-Chair, IEEE MASS.
 
 - **Technical Program Committee**
-    - 2024: ACM/IEEE IoTDI.
+    - 2024: ACM SenSys, ACM/IEEE IoTDI.
     - 2023: ACM SenSys, ACM e-Energy, IEEE/ACM CHASE, ICCPS-wip, IoTDI Poster & Demo, ICA3PP.
     - 2022: SenSys Shadow Program.
 
