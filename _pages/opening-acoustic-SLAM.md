@@ -13,7 +13,7 @@ nav: false
 
 - A Bachelor's (for research assistant), Master's degree (for research associate), or Doctoral degree (for research fellow) in CS/EE/Math or related fields with good grades.
 - Solid programming skills and prototyping capabilities.
-- Research experience in SLAM, sensing, signal processing, deep learning, robotics, and related domains are required.
+- Research experience in SLAM, sensing, signal processing, deep learning, robotics, and related domains is preferred.
 
 
 <!-- The successful candidate will be offered a 4-year contract. Salary and benefits are in accordance with the Collective Labour Agreement for Dutch Universities, increasing from around 2,400 euros per month in the first year to around 3,100 euros in the fourth year.  -->
