@@ -6,14 +6,14 @@ description:
 nav: false
 ---
 
-1-2 research assistant/associate/fellow positions are available in the Information Systems Technology and Design (ISTD) Pillar, Singapore University of Technology and Design (SUTD). Interested applicants can send their CVs, transcripts, and representative publications to <qun_song@sutd.edu.sg>. Successful candidates will directly work with [Dr. Qun Song](https://song-qun.github.io/). The candidates will conduct research in acoustic simultaneous localization and mapping (SLAM).
+1-2 research assistant/associate/fellow positions are available in the Information Systems Technology and Design (ISTD) Pillar, Singapore University of Technology and Design (SUTD). Interested applicants can send their CVs, transcripts, and representative publications to <qun_song@sutd.edu.sg>. Successful candidates will directly work with [Dr. Qun Song](https://song-qun.github.io/). The candidates will conduct research in acoustic sensing and simultaneous localization and mapping (SLAM).
 
 
 #### Requirements ####
 
 - A Bachelor's (for research assistant), Master's degree (for research associate), or Doctoral degree (for research fellow) in CS/EE/Math or related fields with good grades.
 - Solid programming skills and prototyping capabilities.
-- Research experience in SLAM, sensing, signal processing, deep learning, robotics, and related domains is preferred.
+- Research experience in sensing, signal processing, deep learning, robotics, SLAM, and related domains is preferred.
 
 
 <!-- The successful candidate will be offered a 4-year contract. Salary and benefits are in accordance with the Collective Labour Agreement for Dutch Universities, increasing from around 2,400 euros per month in the first year to around 3,100 euros in the fourth year.  -->
