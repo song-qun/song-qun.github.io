@@ -9,7 +9,8 @@ order: 6
 
 - Current members
     - Chenxiang Luo, research assistant, 2024.10 -
-    - Yukuan Ding, Ph.D. at TU Delft, 2023.10 - 
+    - Yijie Shen, visiting student, 2024.11 -
+    <!-- - Yukuan Ding, Ph.D. at TU Delft, 2023.10 -  -->
 
 - Alumni:
     - Dinghao Xue, MSc with distinction at TU Delft, 2023 - 2024
