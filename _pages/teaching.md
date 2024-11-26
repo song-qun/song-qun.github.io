@@ -15,7 +15,7 @@ order: 3
 **Teaching @TU Delft**\
 IN4254 Smart Phone Sensing. 2023.\
 CSE3000 Research Projects@TU Delft. 2023.\
-CSE2000 Software Projects@TU Delft. 2023-2024.\
+CSE2000 Software Projects@TU Delft. 2023-2024.
 
 <!-- **Supervision of Undergraduate Research Projects@TU Delft**.\
 Five projects in *Indoor Location Sensing Using Smartphone Acoustic System*. 2023.\
