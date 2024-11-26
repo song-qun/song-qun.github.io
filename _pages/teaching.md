@@ -8,13 +8,14 @@ order: 3
 ---
 
 **Teaching @SUTD**\
-01.400 Capstone Programme, 2024.\
+50.039 Theory and Practice of Deep Learning, 2025.\
+01.400 Capstone Programme, 2024-2025.\
 10.014 Computational Thinking for Design, 2024.
 
 **Teaching @TU Delft**\
-IN4254 Smart Phone Sensing. 2023.
-Research Projects@TU Delft. 2023.
-Software Projects@TU Delft. 2024, 2023.
+IN4254 Smart Phone Sensing. 2023.\
+CSE3000 Research Projects@TU Delft. 2023.\
+CSE2000 Software Projects@TU Delft. 2023-2024.\
 
 <!-- **Supervision of Undergraduate Research Projects@TU Delft**.\
 Five projects in *Indoor Location Sensing Using Smartphone Acoustic System*. 2023.\

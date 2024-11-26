@@ -27,7 +27,7 @@ I am currently an Assistant Professor in the Information Systems Technology and 
 <!-- I am currently an Assistant Professor in the [Embedded Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at Delft University of Technology, the Netherlands. -->
 I received my Ph.D. from Nanyang Technological University, Singapore. Before that, I received my B.Eng. from Nankai University.
 
-My research focuses on advancing the reliability and efficiency of AI-powered cyber-physical systems (CPSs) and Internet of Things (IoT) deployments. I develop novel techniques to address critical challenges in AI-powered CPSs and IoT systems, including defense mechanisms against adversarial examples, cross-modal architectures that effectively fuse data from multiple sensors, and lightweight and efficient inference methods that enable real-time performance on embedded devices.
+My research focuses on advancing the reliability and efficiency of AI-powered cyber-physical systems (CPSs) and Internet of Things (IoT) deployments. I develop novel techniques to address critical challenges in AI-powered CPSs and IoT systems, including defense mechanisms against adversarial examples, cross-modal architectures that effectively fuse data from multiple sensors, and lightweight and efficient AI models that enable real-time performance on embedded devices.
 
 
 <!-- **I am seeking multiple Ph.D. students and RAs to join my research team and work on resilient and deployable AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).** -->
