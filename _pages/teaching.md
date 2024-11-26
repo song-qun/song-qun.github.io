@@ -34,10 +34,10 @@ CE3004 Multi-Disciplinary Project. 2019-2020.\
 CE4032 Data Analytics and Mining. 2019.\
 CE3005 Computer Networks. 2019.
 
-**Supervision of Final Year Project@NTU**\
+<!-- **Supervision of Final Year Project@NTU**\
 Ang Zhan Phung (NTU, SCSE, 2021)\
 Khoo Kai Siang (NTU, SCSE, 2021)\
 Milla Samuel (NTU, SCSE, 2021)\
 Toh Koo Fong (NTU, SCSE, 2021)\
 Lin Beiyi  (NTU, SCSE, 2020)\
-Goh Yon-lu  (NTU, SCSE, 2020)\
+Goh Yon-lu  (NTU, SCSE, 2020) -->
