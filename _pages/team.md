@@ -11,7 +11,7 @@ order: 6
     - Chenxiang Luo, research assistant, 2024.10 -
     - Yijie Shen, visiting student, 2024.11 -
     - Zhuochen Yu, Ph.D. student, 2025.1 -
-    <!-- - Fanyi Meng, research assistant, 2025.1 - -->
+    - Fanyi Meng, research assistant, 2025.1 -
     <!-- - Yukuan Ding, Ph.D. at TU Delft, 2023.10 -  -->
 
 - Alumni:
