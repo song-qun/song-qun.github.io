@@ -27,6 +27,22 @@ I am currently an Assistant Professor in the Information Systems Technology and 
 <!-- I am currently an Assistant Professor in the [Embedded Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at Delft University of Technology, the Netherlands. -->
 I received my Ph.D. from Nanyang Technological University (NTU), Singapore. Before that, I received my B.Eng. from Nankai University, China.
 
+
+
+
+<!-- **I am seeking multiple Ph.D. students and RAs to join my research team and work on resilient and deployable AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).** -->
+
+**<span style="color: red;">I am continuously looking for self-motivated PhDs/Postdocs/RAs to join me at CityU HK in developing novel AI-powered CPS/IoT systems. Check the job description [here](https://song-qun.github.io/opening-PhD/).</span>**
+
+<!-- **<span style="color: red;">I have openings for 1-2 fully-funded Ph.D. students with strong interest in developing robust and efficient AI-powered CPS/IoT systems. Check the job description [here](https://song-qun.github.io/opening-PhD/).</span>** -->
+
+<!-- **<span style="color: red;">I have openings for 1-2 research assistants/associates/fellows to work on acoustic SLAM. Check the job description [here](https://song-qun.github.io/opening-acoustic-SLAM/).</span>** -->
+
+**<span style="color: red;">Self-funded and CSC-funded visiting students are welcome to join our team.</span>**
+
+
+<!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
+
 My research aims to advance AI-powered cyber-physical systems (CPSs) and Internet of Things (IoT) systems by addressing critical real-world challenges (e.g., robustness, security, privacy, efficiency, multi-modal fusion, etc.) and developing novel sensing technologies powered by AI. Some ongoing topics include:
 
 * Robust and Secure AI for CPS/IoT:
@@ -43,17 +59,3 @@ My research aims to advance AI-powered cyber-physical systems (CPSs) and Interne
 
 * Efficient and Personalized Edge Sensing
   * Physics-guided data augmentation for efficient model adaptation
-
-
-<!-- **I am seeking multiple Ph.D. students and RAs to join my research team and work on resilient and deployable AIoT systems. Check the job description [here](https://song-qun.github.io/opening/).** -->
-
-**<span style="color: red;">I am continuously looking for self-motivated PhDs/Postdocs/RAs to join me at CityU HK in developing novel AI-powered CPS/IoT systems. Check the job description [here](https://song-qun.github.io/opening-PhD/).</span>**
-
-<!-- **<span style="color: red;">I have openings for 1-2 fully-funded Ph.D. students with strong interest in developing robust and efficient AI-powered CPS/IoT systems. Check the job description [here](https://song-qun.github.io/opening-PhD/).</span>** -->
-
-<!-- **<span style="color: red;">I have openings for 1-2 research assistants/associates/fellows to work on acoustic SLAM. Check the job description [here](https://song-qun.github.io/opening-acoustic-SLAM/).</span>** -->
-
-**<span style="color: red;">Self-funded and CSC-funded visiting students are welcome to join our team.</span>**
-
-
-<!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
