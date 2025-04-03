@@ -8,7 +8,7 @@ nav: false
 
 
 
-Ph.D. positions (enroll in Jan/Sep 2026) are available in the Department of Electrical Engineering (EE) of City University of Hong Kong (CityU HK). Interested candidates can send their CVs, transcripts, TOEFL/IELTS, and representative publications (if applicable) to [my email](mailto:nkusq2014@gmail.com). Successful candidates will directly work with [Dr. Qun Song](https://song-qun.github.io/). The candidates will conduct system research in Artificial Intelligence (AI)-powered Internet of Things (IoT) and cyber-physical systems (CPSs). Research topics include but are not limited to:
+Ph.D. positions (enroll in Jan/Sep 2026) are available in the Department of Electrical Engineering (EE) of City University of Hong Kong (CityU HK). Interested candidates can send their CVs, transcripts, TOEFL/IELTS, and representative publications (if applicable) to [nkusq2014@gmail.com](mailto:nkusq2014@gmail.com). Successful candidates will directly work with [Dr. Qun Song](https://song-qun.github.io/). The candidates will conduct system research in Artificial Intelligence (AI)-powered Internet of Things (IoT) and cyber-physical systems (CPSs). Research topics include but are not limited to:
 
 <!-- - Reliable design of AIoT systems, including components of robustness, security, privacy, computing, etc.
 - AI for autonomous cyber-physical systems, e.g., autonomous vehicles.
