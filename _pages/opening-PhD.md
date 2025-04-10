@@ -37,6 +37,7 @@ Ph.D. positions (enroll in Jan/Sep 2026) are available in the Department of Elec
 
 <!-- The successful candidate will be offered a 4-year contract. Salary and benefits are in accordance with the Collective Labour Agreement for Dutch Universities, increasing from around 2,400 euros per month in the first year to around 3,100 euros in the fourth year.  -->
 
+
 #### About the Supervisor ####
 <!-- Qun Song will join the Information Systems Technology and Design Pillar, Singapore University of Technology and Design as an Assistant Professor. From 2022-2024, she was an Assistant Professor at the Delft University of Technology, the Netherlands.  -->
 Dr. Qun Song received Ph.D. from Nanyang Technological University, Singapore and B.Eng. from Nankai University, China. Her research interests include the Internet of Things, cyber-physical systems, and artificial intelligence. She published multiple papers in top-tier conferences and journals including SenSys, UbiComp, MobiCom, IPSN, USENIX Security, AAAI, IJCAI, TMC, TOSN, and TDSC. She is the recipient of the 2023 MobiCom Best Community Contribution Award, the 2022 SenSys Best Paper Award Finalist, and the 2021 IPSN Best Artifact Award Runner-up.
