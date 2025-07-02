@@ -23,7 +23,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently an Assistant Professor in the Information Systems Technology and Design (**ISTD**) Pillar of Singapore University of Technology and Design (**SUTD**). I will join the Department of Electrical Engineering (**EE**) of City University of Hong Kong (**CityUHK**) as an Assistant Professor from July, 2025. I was an Assistant Professor at Delft University of Technology (**TU Delft**), the Netherlands, from 2022 to 2024.
+I am an Assistant Professor in the Department of Electrical Engineering at the City University of Hong Kong. Previously, I was an Assistant Professor in the Information Systems Technology and Design Pillar at the Singapore University of Technology and Design from 2024 to 2025. 
+Before that, I was an Assistant Professor at Delft University of Technology in the Netherlands from 2022 to 2024.
 <!-- I am currently an Assistant Professor in the [Embedded Systems Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS) at Delft University of Technology, the Netherlands. -->
 I received my Ph.D. from Nanyang Technological University (NTU), Singapore. Before that, I received my B.Eng. from Nankai University, China.
 
@@ -38,7 +39,7 @@ I received my Ph.D. from Nanyang Technological University (NTU), Singapore. Befo
 
 <!-- **<span style="color: red;">I have openings for 1-2 research assistants/associates/fellows to work on acoustic SLAM. Check the job description [here](https://song-qun.github.io/opening-acoustic-SLAM/).</span>** -->
 
-**<span style="color: red;">Self-funded and CSC-funded visiting students are welcome to join our team.</span>**
+**<span style="color: red;">CSC-funded visiting students are welcome to join our team.</span>**
 
 
 <!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
