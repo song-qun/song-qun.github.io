@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Robust and Secure AI for CPS/IoT
-description: a project with a background image
+title: Robust and Secure AIoT
+description: Moving Target Defense against Adversarial Examples
 img: /assets/img/12.jpg
 importance: 1
 ---
