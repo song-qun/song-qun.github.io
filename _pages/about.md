@@ -40,7 +40,7 @@ I received my Ph.D. from Nanyang Technological University (NTU), Singapore. Befo
 
 <!-- **<span style="color: red;">I have openings for 1-2 research assistants/associates/fellows to work on acoustic SLAM. Check the job description [here](https://song-qun.github.io/opening-acoustic-SLAM/).</span>** -->
 
-**<span style="color: red;">CSC-funded visiting students are welcome to join our team.</span>**
+<!-- **<span style="color: red;">CSC-funded visiting students are welcome to join our team.</span>** -->
 
 
 <!-- My research interests also include exploiting physical knowledge to advance the learning process on embedded devices and developing privacy-preserved AIoT systems. -->
