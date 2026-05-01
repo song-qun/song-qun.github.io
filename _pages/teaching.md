@@ -3,9 +3,13 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: 
-nav: false
+nav: true
 order: 3
 ---
+
+**Teaching @CityUHK**\
+EE1004 Foundations of Information Systems and Data Analysis, 2025/26 Semester B\
+
 
 **Teaching @SUTD**\
 50.039 Theory and Practice of Deep Learning, 2025.\
