@@ -7,12 +7,17 @@ nav: true
 order: 5
 ---
 
+- **Editorship**
+    - Associate Editor, Frontiers in Energy Research (Smart Grids Section)
+
+
 - **Conference Chairs**
     - 2025: Publicity Co-Chair, EWSN. Poster Co-Chair, RTCSA.
     - 2024: Poster and Demo Co-Chair, ACM e-Energy. Publicity Co-Chair, CPS-IoT Week.
     - 2023: Publicity Co-Chair, IEEE MASS.
 
 - **Technical Program Committee**
+    - 2027: ACM SenSys
     - 2026: ACM SenSys, IEEE/ACM CHASE, IEEE SECON
     - 2025: ACM SenSys, ACM MobiSys, EWSN, IEEE/ACM CHASE.
     - 2024: ACM SenSys, ACM/IEEE IoTDI.
