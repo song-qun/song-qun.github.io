@@ -8,7 +8,7 @@ order: 3
 ---
 
 **Teaching @CityUHK**\
-EE1004 Foundations of Information Systems and Data Analysis, 2025/26 Semester B\
+EE1004 Foundations of Information Systems and Data Analysis, 2025/26 Semester B.
 
 
 **Teaching @SUTD**\
