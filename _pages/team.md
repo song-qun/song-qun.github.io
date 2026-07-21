@@ -8,6 +8,7 @@ order: 6
 ---
 
 - Current members
+    - Liyang Ruan (incoming MPhil@CityUHK, 09/2027-)
     - Fuzheng Guo (incoming PhD@CityUHK, 09/2026-) 
     - Yuheng Liu (incoming PhD@CityUHK, 09/2026-) 
     - Chenxiang Luo (PhD@CityUHK, 09/2025-; Research Assistant@SUTD, 10/2024-08/2025) 
