@@ -17,7 +17,7 @@ order: 5
     - 2023: Publicity Co-Chair, IEEE MASS.
 
 - **Technical Program Committee**
-    - 2027: ACM SenSys
+    - 2027: ACM SenSys, ACM MobiCom
     - 2026: ACM SenSys, IEEE/ACM CHASE, IEEE SECON
     - 2025: ACM SenSys, ACM MobiSys, EWSN, IEEE/ACM CHASE.
     - 2024: ACM SenSys, ACM/IEEE IoTDI.
@@ -29,6 +29,7 @@ order: 5
     - 2022: IEEE MASS.
 
 - **Journal Reviewer**
-    - 2023: IMWUT, ACM TOSN, IEEE TMC, IEEE TDSC, IoTJ.
+- ACM HEALTH, IEEE Wireless Communications Letters
+    - 2023: IMWUT, ACM TOSN, IEEE TDSC, IEEE IoTJ.
     - 2022: IEEE TMC.
     - 2020: IEEE TNNLS. -->

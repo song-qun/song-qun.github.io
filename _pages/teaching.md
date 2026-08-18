@@ -8,7 +8,8 @@ order: 3
 ---
 
 **Teaching @CityUHK**\
-EE1004 Foundations of Information Systems and Data Analysis, 2025/26 Semester B.
+EE1004 Foundations of Information Systems and Data Analysis, 2025/26 Semester B.\
+EE5609 Computer Networks: Architecture, Protocols, and Applications 2026/27 Semester A.
 
 
 **Teaching @SUTD**\
